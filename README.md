@@ -37,3 +37,6 @@ Running the Script:
 Install the required libraries: pip install requests beautifulsoup4 pandas
 Save the script as natural_gas_prices.py in a directory.
 Run the script from the command line: python natural_gas_prices.py
+
+
+
