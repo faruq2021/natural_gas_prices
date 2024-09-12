@@ -6,6 +6,7 @@ Files:
 
 natural_gas_prices.py: Python script for extracting and saving data
 monthly_prices.csv: CSV file containing monthly natural gas prices (Date, Price) 
+https://github.com/faruq2021/natural_gas_prices/blob/main/monthly_prices.csv
 
 
 Libraries Used:
